@@ -1,6 +1,6 @@
 def main():
-  print("Hello, CSC120!yoyoyo")
-  x = 3 + 5
-  print("3 + 5 = ", x)
+  print("Hello, CSC120!")
+  x = 3 + 5 + 8 + 10
+  print("3 + 5 + 8 + 10 = ", x)
   
 main()
